@@ -1,1 +1,1 @@
-# nginx-upstrem-module
+# nginx-upstream-module
